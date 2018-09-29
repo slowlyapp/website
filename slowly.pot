@@ -1,0 +1,259 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-29 19:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:16
+msgid "404 NOT FOUND"
+msgstr ""
+
+#: 404.php:18 404.php:35 header.php:35 footer.php:62
+msgid "Home"
+msgstr ""
+
+#: 404.php:29
+msgid "NOT FOUND"
+msgstr ""
+
+#: page-homepage.php:24
+msgid ""
+"SLOWLY lets you meet pen friends from your smartphone! Match with someone "
+"that shares your passion, write a letter and collect stamps from around the "
+"world. Speak your mind – one letter at a time!"
+msgstr ""
+
+#: page-homepage.php:38
+msgid "Scroll down to learn more"
+msgstr ""
+
+#: page-homepage.php:49
+msgid "SLOWLY is not your typical networking or dating app"
+msgstr ""
+
+#: page-homepage.php:50
+msgid ""
+"We’re bringing the traditional pen friend experience to your smartphone."
+msgstr ""
+
+#: page-homepage.php:51
+msgid ""
+"The app is created for those who yearns for meaningful conversations with "
+"people in the era of instant messaging. We hope to connect people around the "
+"world at a slower but better pace – one letter at a time."
+msgstr ""
+
+#: page-homepage.php:52
+msgid ""
+"Meet a new pen friend, seal your letter &amp; place a stamp - start "
+"connecting with the world on SLOWLY!"
+msgstr ""
+
+#: page-homepage.php:64
+msgid "Letters take time to be delivered"
+msgstr ""
+
+#: page-homepage.php:65
+msgid ""
+"The farther away your pen friend lives, the longer it will take. Why rush "
+"through replies? Make your letter be worth the wait!"
+msgstr ""
+
+#: page-homepage.php:72
+msgid "A nickname &amp; an avatar is all you need"
+msgstr ""
+
+#: page-homepage.php:74
+msgid ""
+"Who says a picture is always worth a thousand words?<br><i>No swiping is "
+"involved here</i> - speak your mind freely to your pen friends!"
+msgstr ""
+
+#: page-homepage.php:80
+msgid "Share your passion to the world."
+msgstr ""
+
+#: page-homepage.php:82
+msgid ""
+"Matches are based on language &amp; commonly interested topics. Practice a "
+"language, exchange thoughts on the same passion - the first letter is simply "
+"exciting!"
+msgstr ""
+
+#: page-homepage.php:85
+msgid "Languages"
+msgstr ""
+
+#: page-homepage.php:86
+msgid "Relationships"
+msgstr ""
+
+#: page-homepage.php:87
+msgid "Movies"
+msgstr ""
+
+#: page-homepage.php:88
+msgid "Music"
+msgstr ""
+
+#: page-homepage.php:89
+msgid "Science"
+msgstr ""
+
+#: page-homepage.php:90
+msgid "Art"
+msgstr ""
+
+#: page-homepage.php:91
+msgid "Casual"
+msgstr ""
+
+#: page-homepage.php:92
+msgid "Reading"
+msgstr ""
+
+#: page-homepage.php:93
+msgid "Family"
+msgstr ""
+
+#: page-homepage.php:106
+msgid "Exchange moments that matter, with those who matter."
+msgstr ""
+
+#: page-homepage.php:108
+msgid ""
+"On SLOWLY you can send and receive a set amount of photos everyday - <b>"
+"exclusively with pen friends you have granted access</b>."
+msgstr ""
+
+#: page-homepage.php:110
+msgid "Learn more"
+msgstr ""
+
+#: page-homepage.php:117 page-homepage.php:127
+msgid "Build your stamp collection"
+msgstr ""
+
+#: page-homepage.php:118 page-homepage.php:128
+msgid ""
+"Save your memories & collect over 100 stamps: unlock them by meeting new "
+"pals, travelling to a new country, or logging into SLOWLY during <a "
+"href='https://twitter.com/slowlyapp/status/947530763381096449' "
+"target='_blank'><u>festive seasons &amp; events</u></a>!"
+msgstr ""
+
+#: page-homepage.php:139
+msgid "Latest News"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Widget 3"
+msgstr ""
+
+#: page-resetpassword.php:35
+msgid "New Password"
+msgstr ""
+
+#: page-resetpassword.php:39
+msgid "Confirm Password"
+msgstr ""
+
+#: page-resetpassword.php:43
+msgid "New Password does not match the confirm password"
+msgstr ""
+
+#: page-resetpassword.php:44
+msgid "Minimum 8 chracters with at least 1 Alphabet and 1 Number"
+msgstr ""
+
+#: page-resetpassword.php:45
+msgid "Unknown error:"
+msgstr ""
+
+#: page-resetpassword.php:47 page-resetpassword.php:59 
+#: page-resetpassword.php:66
+msgid "If you need further assistance, please contact us"
+msgstr ""
+
+#: page-resetpassword.php:51
+msgid "Loading..."
+msgstr ""
+
+#: page-resetpassword.php:52
+msgid "Submit"
+msgstr ""
+
+#: page-resetpassword.php:56
+msgid "Oops, link expired."
+msgstr ""
+
+#: page-resetpassword.php:63
+msgid ""
+"Password updated. Please restart your app and signin with your new password."
+msgstr ""
+
+#: footer.php:19
+msgid "Start connecting with the world on SLOWLY!"
+msgstr ""
+
+#: footer.php:41
+msgid "Slowly created by Kevin Wong"
+msgstr ""
+
+#: footer.php:47
+msgid "Buy us a coffee"
+msgstr ""
+
+#: footer.php:52
+msgid "With special thanks to"
+msgstr ""
+
+#: footer.php:59
+msgid "English Version"
+msgstr ""
+
+#: footer.php:71
+msgid "Email Support"
+msgstr ""
+
+#. Name of the theme
+msgid "SLOWLY"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.getslowly.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Kevin Wong"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.facebook.com/kevinkev"
+msgstr ""
